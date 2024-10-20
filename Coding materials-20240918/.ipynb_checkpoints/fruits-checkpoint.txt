@@ -1,4 +1,0 @@
-X	Y
-bananas	3
-apples	5
-orange	none
